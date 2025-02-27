@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: Convertor, Configuration: Debug Any CPU ------
+1>C:\Users\PC\source\repos\Database Migration Tool\Convertor\clsConfig.cs(167,20,167,22): warning CS0168: The variable 'st' is declared but never used
+1>C:\Users\PC\source\repos\Database Migration Tool\Convertor\clsConfig.cs(174,20,174,24): warning CS0168: The variable 'uTmp' is declared but never used
+1>C:\Users\PC\source\repos\Database Migration Tool\Convertor\clsConfig.cs(399,20,399,22): warning CS0168: The variable 'st' is declared but never used
+1>  Convertor -> C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Convertor.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

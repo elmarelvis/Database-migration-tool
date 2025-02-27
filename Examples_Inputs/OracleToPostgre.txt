@@ -1,0 +1,12 @@
+Server  = 
+User  = PQDT_TEST
+Password  = pqdt
+Port  = 0
+Server2  = 192.168.1.33
+User2  = postgres
+Password2  = egc6720EGC
+Port2  = 5432
+Database  = NEWDAMDB
+Database2 = enesy
+choosen_Db  = 0
+choosen_Db2  = 1

@@ -1,0 +1,557 @@
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\TEP.sdf.mdf
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\TEP.sdf_log.ldf
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Convertor.exe
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Convertor.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Castle.Core.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\IndexRange.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Moq.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MySql.Data.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Npgsql.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Buffers.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Memory.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Text.Json.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Threading.Channels.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ZstdNet.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Castle.Core.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Moq.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\MySql.Data.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Npgsql.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Buffers.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Memory.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Text.Json.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Threading.Channels.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.xml
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ru\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\bin\Debug\ru\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.DBConvertor.resources
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.TableDbSelecter.resources
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.csproj.CopyComplete
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.exe
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.pdb
+C:\Users\PC\source\repos\Convertor - Copy - Copy (2)\convertor\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\TEP.sdf.mdf
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\TEP.sdf_log.ldf
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Convertor.exe
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Convertor.pdb
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Castle.Core.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\IndexRange.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Moq.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MySql.Data.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Npgsql.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Buffers.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Memory.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Text.Json.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Threading.Channels.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\ZstdNet.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Castle.Core.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Moq.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\MySql.Data.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Npgsql.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Buffers.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Memory.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Text.Json.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Threading.Channels.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.xml
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\ru\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\bin\Debug\ru\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.DBConvertor.resources
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.TableDbSelecter.resources
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.csproj.CopyComplete
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.exe
+C:\Users\PC\source\repos\Database Migration Tool\convertor\Convertor\obj\Debug\Convertor.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Convertor.exe
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Convertor.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Castle.Core.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\IndexRange.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Moq.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MySql.Data.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Npgsql.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Buffers.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Memory.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Text.Json.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Threading.Channels.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ZstdNet.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Castle.Core.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Moq.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\MySql.Data.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Npgsql.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Buffers.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Memory.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Text.Json.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Threading.Channels.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.xml
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ru\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\bin\Debug\ru\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.DBConvertor.resources
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.CopyComplete
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.exe
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.pdb
+C:\Users\PC\source\repos\Database Migration Tool\Convertor\obj\Debug\Convertor.Transform.resources
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.DBConvertor.resources
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.Transform.resources
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.GenerateResource.cache
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.exe
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Convertor.exe.config
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Convertor.exe
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Convertor.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\BouncyCastle.Crypto.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Castle.Core.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\IndexRange.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\K4os.Hash.xxHash.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MaterialDesignColors.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MaterialSkin.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.HashCode.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Options.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Moq.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MySql.Data.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Npgsql.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Oracle.ManagedDataAccess.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Buffers.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Collections.Immutable.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.ComponentModel.Annotations.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Memory.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Numerics.Vectors.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Text.Encodings.Web.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Text.Json.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Threading.Channels.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.ValueTuple.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Ubiety.Dns.Core.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ZstdNet.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Castle.Core.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\K4os.Hash.xxHash.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MaterialDesignColors.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.HashCode.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Options.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Moq.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\MySql.Data.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Npgsql.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Buffers.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Collections.Immutable.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Memory.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Numerics.Vectors.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Text.Encodings.Web.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Text.Json.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Threading.Channels.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\System.ValueTuple.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.xml
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ru\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\bin\Debug\ru\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+\\emur\Temp\ELMAR\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.CopyComplete
+Z:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+Z:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.SuggestedBindingRedirects.cache
+Z:\Database Migration Tool\Convertor\obj\Debug\Convertor.exe
+Z:\Database Migration Tool\Convertor\obj\Debug\Convertor.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\Convertor.exe.config
+C:\Database Migration Tool\Convertor\bin\Debug\Convertor.exe
+C:\Database Migration Tool\Convertor\bin\Debug\Convertor.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Castle.Core.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.dll
+C:\Database Migration Tool\Convertor\bin\Debug\IndexRange.dll
+C:\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Database Migration Tool\Convertor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Database Migration Tool\Convertor\bin\Debug\MaterialDesignColors.dll
+C:\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Database Migration Tool\Convertor\bin\Debug\MaterialSkin.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Moq.dll
+C:\Database Migration Tool\Convertor\bin\Debug\MySql.Data.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Npgsql.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Buffers.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Collections.Immutable.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Memory.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Numerics.Vectors.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Text.Json.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Threading.Channels.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Database Migration Tool\Convertor\bin\Debug\System.ValueTuple.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Database Migration Tool\Convertor\bin\Debug\ZstdNet.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Database Migration Tool\Convertor\bin\Debug\Castle.Core.xml
+C:\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\Google.Protobuf.xml
+C:\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Database Migration Tool\Convertor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Database Migration Tool\Convertor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Database Migration Tool\Convertor\bin\Debug\MaterialDesignColors.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Database Migration Tool\Convertor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Moq.xml
+C:\Database Migration Tool\Convertor\bin\Debug\MySql.Data.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Npgsql.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Buffers.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Collections.Immutable.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Memory.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Numerics.Vectors.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Text.Json.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Threading.Channels.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Database Migration Tool\Convertor\bin\Debug\System.ValueTuple.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.AnnotationBasedModelBuilder.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.xml
+C:\Database Migration Tool\Convertor\bin\Debug\Toolbelt.EntityFrameworkCore.IndexAttribute.Attribute.xml
+C:\Database Migration Tool\Convertor\bin\Debug\ru\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+C:\Database Migration Tool\Convertor\bin\Debug\ru\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.SuggestedBindingRedirects.cache
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.DBConvertor.resources
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.Transform.resources
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.GenerateResource.cache
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.csproj.CopyComplete
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.exe
+C:\Database Migration Tool\Convertor\obj\Debug\Convertor.pdb

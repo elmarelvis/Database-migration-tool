@@ -1,0 +1,6 @@
+01.09.2022 13:33:35;E;Config.LoadConfig: Error reading configuration file.
+01.09.2022 13:33:35;E;Config.LoadConfig: Exception: Object reference not set to an instance of an object.
+01.09.2022 13:36:08;E;Config.LoadConfig: Error reading configuration file.
+01.09.2022 13:36:08;E;Config.LoadConfig: Exception: Object reference not set to an instance of an object.
+01.09.2022 13:47:27;E;Config.LoadConfig: Error reading configuration file.
+01.09.2022 13:47:27;E;Config.LoadConfig: Exception: Index was outside the bounds of the array.

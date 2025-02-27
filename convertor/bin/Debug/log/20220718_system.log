@@ -1,0 +1,52 @@
+18.07.2022 10:04:55;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 10:04:55;E;Config.LoadConfig: Exception: Could not find file 'C:\Users\PC\Documents\hyi2'.
+18.07.2022 10:21:25;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 10:21:25;E;Config.LoadConfig: Exception: Input string was not in a correct format.
+18.07.2022 14:43:24;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 14:43:24;E;Config.LoadConfig: Exception: Could not find file 'C:\Users\PC\Documents\hyi2'.
+18.07.2022 14:46:21;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 14:46:21;E;Config.LoadConfig: Exception: Could not find file 'C:\Users\PC\Documents\kkk'.
+18.07.2022 14:49:36;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 14:49:36;E;Config.LoadConfig: Exception: Could not find file 'C:\Users\PC\Documents\kkk'.
+18.07.2022 15:00:14;E;Config.updateConfigFile: Error updating configuration file.
+18.07.2022 15:00:14;E;Config.updateConfigFile: Key = Server 
+18.07.2022 15:00:14;E;Config.updateConfigFile: Value = 192.168.1.1
+18.07.2022 15:00:14;E;Config.updateConfigFile: Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18.07.2022 15:00:16;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:00:16;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+18.07.2022 15:00:49;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:00:49;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+18.07.2022 15:00:53;E;Config.updateConfigFile: Error updating configuration file.
+18.07.2022 15:00:53;E;Config.updateConfigFile: Key = Server 
+18.07.2022 15:00:53;E;Config.updateConfigFile: Value = 192.168.1.1
+18.07.2022 15:00:53;E;Config.updateConfigFile: Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18.07.2022 15:00:54;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:00:54;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi2.txt' because it is being used by another process.
+18.07.2022 15:01:59;E;Config.updateConfigFile: Error updating configuration file.
+18.07.2022 15:01:59;E;Config.updateConfigFile: Key = Server 
+18.07.2022 15:01:59;E;Config.updateConfigFile: Value = 192.168.1.1
+18.07.2022 15:01:59;E;Config.updateConfigFile: Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18.07.2022 15:02:01;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:02:01;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+18.07.2022 15:02:06;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:02:06;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+18.07.2022 15:04:47;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:04:47;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+18.07.2022 15:06:37;E;Config.updateConfigFile: Error updating configuration file.
+18.07.2022 15:06:37;E;Config.updateConfigFile: Key = Server 
+18.07.2022 15:06:37;E;Config.updateConfigFile: Value = 192.168.1.1
+18.07.2022 15:06:37;E;Config.updateConfigFile: Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18.07.2022 15:06:38;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:06:38;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi2.txt' because it is being used by another process.
+18.07.2022 15:07:24;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:07:24;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+18.07.2022 15:32:39;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:32:39;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi3.txt' because it is being used by another process.
+18.07.2022 15:33:01;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:33:01;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi3.txt' because it is being used by another process.
+18.07.2022 15:40:54;E;Config.LoadConfig: Error reading configuration file.
+18.07.2022 15:40:54;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi3.txt' because it is being used by another process.

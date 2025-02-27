@@ -1,0 +1,26 @@
+15.07.2022 09:29:05;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 09:29:05;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt.txt' because it is being used by another process.
+15.07.2022 09:29:21;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 09:29:21;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt.txt' because it is being used by another process.
+15.07.2022 09:37:16;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 09:37:16;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+15.07.2022 10:28:08;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 10:28:08;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+15.07.2022 12:42:34;E;Config.updateConfigFile: Error updating configuration file.
+15.07.2022 12:42:34;E;Config.updateConfigFile: Key = Server
+15.07.2022 12:42:34;E;Config.updateConfigFile: Value = elamr
+15.07.2022 12:42:34;E;Config.updateConfigFile: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+15.07.2022 12:46:55;E;Config.updateConfigFile: Error updating configuration file.
+15.07.2022 12:46:57;E;Config.updateConfigFile: Key = Server
+15.07.2022 12:46:58;E;Config.updateConfigFile: Value = elmar
+15.07.2022 12:47:01;E;Config.updateConfigFile: Exception: The process cannot access the file 'C:\Users\PC\Documents\hyi.txt' because it is being used by another process.
+15.07.2022 12:51:43;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 12:51:43;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\elmar' because it is being used by another process.
+15.07.2022 12:51:51;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 12:51:51;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\elmar' because it is being used by another process.
+15.07.2022 13:05:39;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 13:05:39;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\elmarek' because it is being used by another process.
+15.07.2022 13:39:20;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 13:39:20;E;Config.LoadConfig: Exception: The process cannot access the file 'C:\Users\PC\Documents\elvis' because it is being used by another process.
+15.07.2022 13:45:04;E;Config.LoadConfig: Error reading configuration file.
+15.07.2022 13:45:04;E;Config.LoadConfig: Exception: Could not find file 'C:\Users\PC\Documents\elmar'.

@@ -1,0 +1,2 @@
+14.09.2022 12:12:31;E;Config.LoadConfig: Error reading configuration file.
+14.09.2022 12:12:31;E;Config.LoadConfig: Exception: Could not find file '\\emur\Temp\ELMAR\MssqlToPostgre'.

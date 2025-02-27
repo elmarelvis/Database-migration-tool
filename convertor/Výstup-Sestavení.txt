@@ -1,0 +1,7 @@
+﻿Zahájilo se sestavování...
+1>------ Sestavování zahájeno: Projekt: Convertor, Konfigurace: Debug Any CPU ------
+1>C:\Users\PC\source\repos\Convertor\Convertor\clsConfig.cs(152,20,152,22): warning CS0168: Proměnná st je deklarovaná, ale nikdy se nepoužívá.
+1>C:\Users\PC\source\repos\Convertor\Convertor\clsConfig.cs(159,20,159,24): warning CS0168: Proměnná uTmp je deklarovaná, ale nikdy se nepoužívá.
+1>C:\Users\PC\source\repos\Convertor\Convertor\clsConfig.cs(357,20,357,22): warning CS0168: Proměnná st je deklarovaná, ale nikdy se nepoužívá.
+1>  Convertor -> C:\Users\PC\source\repos\Convertor\Convertor\bin\Debug\Convertor.exe
+========== Sestavení: 1 úspěšně, 0 se nezdařilo, 0 aktuální, 0 přeskočeno ==========

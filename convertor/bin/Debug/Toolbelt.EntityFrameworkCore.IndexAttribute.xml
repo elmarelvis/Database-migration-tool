@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Toolbelt.EntityFrameworkCore.IndexAttribute</name>
+    </assembly>
+    <members>
+        <member name="T:Toolbelt.ComponentModel.DataAnnotations.AttributedIndexBuilderOptions">
+            <summary>
+            Options for building Indexes from annotations.
+            </summary>
+        </member>
+        <member name="T:Toolbelt.ComponentModel.DataAnnotations.AttributedIndexBuilderOptions.NotSupportedFeaturesFlag">
+            <summary>
+            Flags that indicates unsupported features.
+            </summary>
+        </member>
+        <member name="P:Toolbelt.ComponentModel.DataAnnotations.AttributedIndexBuilderOptions.NotSupportedFeaturesFlag.IsClustered">
+            <summary>
+            "IsClustered" porperty of [Index] attribute.
+            </summary>
+        </member>
+        <member name="P:Toolbelt.ComponentModel.DataAnnotations.AttributedIndexBuilderOptions.NotSupportedFeaturesFlag.Includes">
+            <summary>
+            "Includes" porperty of [Index] attribute.
+            </summary>
+        </member>
+        <member name="P:Toolbelt.ComponentModel.DataAnnotations.AttributedIndexBuilderOptions.SuppressNotSupportedException">
+            <summary>
+            Sets or gets the flags to suppress "NotSupportedException" for each unsupported feature.
+            </summary>
+        </member>
+    </members>
+</doc>

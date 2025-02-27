@@ -70,18 +70,6 @@ The migration executor provides several options to customize the migration proce
 - **Batch Size:** Number of rows to process in a single batch (default: 1000)
 - **Continue On Error:** Whether to continue migration if an error occurs
 
-### Example Configuration Files
-
-The tool comes with example configuration files in the `Examples_Inputs` folder that demonstrate common migration scenarios:
-
-- MssqlToMssql.txt
-- MssqlToPostges.txt
-- OracleToOracle.txt
-- OracleToPostgre.txt
-- OracleToPostgresServer.txt
-- PostgreToOracleServer.txt
-- Postgres.txt
-- PostgresToPostgres.txt
 
 ## Saving and Loading Configurations
 

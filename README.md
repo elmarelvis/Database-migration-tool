@@ -1,4 +1,4 @@
-# Database Migration Tool
+# Database Migration Tool Demo
 
 A powerful cross-database migration utility that enables seamless data transfer between different database systems including Oracle, PostgreSQL, and Microsoft SQL Server.
 
